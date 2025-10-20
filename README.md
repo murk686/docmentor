@@ -28,9 +28,9 @@ DocMentor is a GenAI-powered assistant that transforms documents into answers �
 
 # 📦 Installation
 git clone https://github.com/yourusername/docmentor.git
-cd docmentor
-pip install -r requirements.txt
-python app.py
+# cd docmentor
+# pip install -r requirements.txt
+  python app.py
 
 # 📘 License
 MIT License — free to use, modify, and distribute.
